@@ -24,7 +24,7 @@ Em seu programa de requisições favoritos utilize os endpoints abaixo
 | `valor_total` | `float` | **Obrigatório**. Valor total da compra |
 | `qtd_parcelas` | `int` | **Obrigatório**. A quantidade de parcelas |
 | `data_primeiro_vencimento` | `string` | **Obrigatório**. Data do primeiro vencimento |
-| `valor_entrada` | `string` | Valor da entrada (opcional) |
+| `valor_entrada` | `float` | Valor da entrada (opcional) |
 
 
 #### Retorna um item
